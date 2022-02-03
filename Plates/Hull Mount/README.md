@@ -1,1 +1,1 @@
-[Memoria](https://i.imgur.com/HtZLVgL.png)
+![Memoria](https://i.imgur.com/HtZLVgL.png)
