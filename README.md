@@ -11,5 +11,5 @@
 Note that if you are ordering through JLCPCB or another manufacturer that doesn't source components through other sources, you will have to solder in your own Kailh hotswap sockets.
 
 ![Memoria](https://i.imgur.com/CQLJ4b7.png)
-![Memoria](https://i.imgur.com/GHaTTeT.png)
-![Memoria](https://i.imgur.com/rYvQKYt.png)
+![Memoria](https://i.imgur.com/ehLm29e.png)
+![Memoria](https://i.imgur.com/bfoIQEy.png)
