@@ -8,8 +8,8 @@
  - PCBs have the option of either using THT or SMD LEDs (WS2812B).
    + FR4 Plates using the Hull mounting system have traces for LEDs.
 
-Note that if you are ordering through JLCPCB or another manufacturer that doesn't source components through other sources, you will have to solder in your own Kailh hotswap sockets.
+Please note that if you are ordering through JLCPCB, you will have to solder in your own hotswap sockets.
 
 ![Memoria](https://i.imgur.com/CQLJ4b7.png)
-![Memoria](https://i.imgur.com/81UO4Ft.png)
-![Memoria](https://i.imgur.com/bfoIQEy.png)
+![Memoria](https://i.imgur.com/xMP2GJ9.png)
+![Memoria](https://i.imgur.com/tTUV28m.png)
