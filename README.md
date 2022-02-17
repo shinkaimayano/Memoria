@@ -11,5 +11,5 @@
 Please note that if you are ordering through JLCPCB, you will have to solder in your own hotswap sockets.
 
 ![Memoria](https://i.imgur.com/CQLJ4b7.png)
-![Memoria](https://i.imgur.com/xMP2GJ9.png)
-![Memoria](https://i.imgur.com/tTUV28m.png)
+![Memoria](https://i.imgur.com/44u8M0P.png)
+![Memoria](https://i.imgur.com/z3EjYRa.png)

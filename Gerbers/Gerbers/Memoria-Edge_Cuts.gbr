@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*
-G04 #@! TF.CreationDate,2022-02-17T11:09:30-08:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-rc1-249-g84cfa052a1)*
+G04 #@! TF.CreationDate,2022-02-17T11:23:11-08:00*
 G04 #@! TF.ProjectId,Memoria,4d656d6f-7269-4612-9e6b-696361645f70,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-02-17 11:09:30*
+G04 Created by KiCad (PCBNEW (6.0.0-rc1-249-g84cfa052a1)) date 2022-02-17 11:23:11*
 %MOMM*%
 %LPD*%
 G01*
