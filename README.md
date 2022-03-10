@@ -11,7 +11,7 @@
 
 Please note that if you are ordering through JLCPCB, you will need to preorder the hotswap sockets into your parts lib if you want them assembled by the factory. (C2803348)
 
-Firmware can be found ![here](https://github.com/mayanoshinkai/Firmwares/tree/main/memoria).
+Firmware can be found [here](https://github.com/mayanoshinkai/Firmwares/tree/main/memoria).
 
 ![Memoria](https://i.imgur.com/CQLJ4b7.png)
 ![Memoria](https://i.imgur.com/Zf1sdKv.png)
