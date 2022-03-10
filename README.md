@@ -2,7 +2,7 @@
  A hotswap drop-in PCB for the V4N4G0N family of keyboards.
 
 **Main matrix has been tested and is fully working; RGB remains untested.**
- *Order at your own risk!*
+*Order at your own risk!*
  
  - Supports Jetvan and Minisub bottom rows.
  - Has a breakout for an RGB strip.
