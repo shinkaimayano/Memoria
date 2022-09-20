@@ -1,7 +1,8 @@
 # Memoria
  A hotswap drop-in PCB for the V4N4G0N family of keyboards.
 
-**Main matrix has been tested and is fully working; RGB remains untested.**
+**Please hold off on ordering as a revision is being worked on.**
+Main matrix has been tested and is fully working; RGB remains untested.
 *Order at your own risk!*
  
  - Supports Jetvan and Minisub bottom rows.
@@ -9,7 +10,7 @@
  - PCBs have the option of either using THT or SMD LEDs (WS2812B).
    + FR4 Plates using the Hull mounting system have traces for LEDs.
 
-Please note that if you are ordering through JLCPCB, you will need to preorder the hotswap sockets into your parts lib if you want them assembled by the factory. (C2803348)
+Please note that if you are ordering through JLCPCB, you will need to preorder the hotswap sockets into your parts lib if you want them assembled by the factory.
 
 Firmware can be found [here](https://github.com/mayanoshinkai/Firmwares/tree/main/memoria).
 
