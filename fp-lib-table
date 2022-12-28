@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "MX_Only")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/MX_Only.pretty")(options "")(descr ""))
-  (lib (name "random-keyboard-parts")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/random-keyboard-parts.pretty")(options "")(descr ""))
-  (lib (name "Type-C")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Type-C.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Keebio-Parts.pretty")(options "")(descr ""))
-)

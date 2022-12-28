@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "Shinkai_Library")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Shinkai_Library/Shinkai_Library.pretty")(options "")(descr ""))
+)

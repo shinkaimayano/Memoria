@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Type-C.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+)

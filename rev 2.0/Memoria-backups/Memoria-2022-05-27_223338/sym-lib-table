@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/Schematic_Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "D:/Engineering/Keyboard Projects/Footprints and Libraries/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+)
