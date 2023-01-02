@@ -4,7 +4,7 @@ A hotswap drop-in PCB for the [V4N4G0N](https://trashman.wiki/keyboards/v4n4g0n)
 
 ## Features
   
-- RP2040 MCU with 128MBs of flash storage.  
+- RP2040 MCU with 16MBs (128Mbs) of flash storage.  
 - Has integrated aRGB LED indicators (SK6812MINI-E), replacing the soldered single-color THT LEDs of the original.  
   - These pins are broken out if you want to add underglow as well.
 - Overcurrent and ESD protection.

@@ -6,11 +6,11 @@
 
   (title_block
     (title "Memoria")
-    (date "2022-11-04")
+    (date "2023-01-02")
     (rev "2.0")
     (company "Designed by Shinkai Mayano - Original by Evan Sailer (Trashman)")
     (comment 1 "> Debug pins are omitted since the USB bootloader is baked into the ROM of the chip.")
-    (comment 2 "> RP2040 MCU w/ 128MBs of flash storage.")
+    (comment 2 "> RP2040 MCU w/ 16MBs (128Mbs) of flash storage.")
     (comment 3 "> Jetvan & Minisub layouts w/ integrated RGB indicators.")
     (comment 4 "A hotswap drop-in PCB for the V4N4G0N family of keyboards.")
   )

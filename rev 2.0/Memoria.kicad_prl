@@ -71,6 +71,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "Memoria.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 953,
+          "pos_y": 0,
+          "size_x": 974,
+          "size_y": 1047
+        }
+      },
+      {
+        "name": "Memoria.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 907,
+          "pos_y": 0,
+          "size_x": 1020,
+          "size_y": 1047
+        }
+      }
+    ]
   }
 }
